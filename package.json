@@ -49,7 +49,7 @@
     "html-webpack-plugin": "^2.30.1",
     "jest": "^22.4.2",
     "jest-enzyme": "^4.2.0",
-    "jest-styled-components": "^5.0.0",
+    "jest-styled-components": "^6.3.1",
     "normalize.css": "^8.0.0",
     "prop-types": "^15.6.0",
     "react-dom": "^16.2.0",
@@ -62,11 +62,11 @@
   "dependencies": {
     "lodash.sortby": "^4.7.0",
     "react": "^16.2.0",
-    "styled-components": "^3.1.6"
+    "styled-components": "^4.1.1"
   },
   "peerDependencies": {
     "react": "^16.2.0",
-    "styled-components": "^3.1.6"
+    "styled-components": "^4.1.1"
   },
   "jest": {
     "collectCoverageFrom": [
